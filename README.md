@@ -1,86 +1,74 @@
-<div align="center">
-  <img src="./assets/marco-hero.gif" alt="Marco Oliveira — Desenvolvimento Full Stack em formação, C# .NET, Angular e Azure" width="100%" />
-  <br /><br />
-  <a href="https://www.linkedin.com/in/marco-antonio-de-oliveira-rodrigues-072136376/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://github.com/Marco-Oliver?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Ver%20projetos-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=25354A" alt="Repositórios" /></a>
-  <a href="https://github.com/Marco-Oliver/TRAMA/releases"><img src="https://img.shields.io/badge/TRAMA-Ver%20releases-0D1117?style=for-the-badge&logo=windows&logoColor=white&labelColor=19776B" alt="Releases do TRAMA" /></a>
+<div align="center">  <img src="./assets/marco-hero.gif" width="100%" alt="Marco Oliveira — Desenvolvedor Full Stack em formação. Animação de terminal com .NET." />  <br />
+  <br />  <a href="https://www.linkedin.com/in/marco-antonio-de-oliveira-rodrigues-072136376/"><img src="./assets/link-linkedin.png" width="29%" alt="LinkedIn" /></a>
+ 
+<a href="https://github.com/Marco-Oliver?tab=repositories"><img src="./assets/link-github.png" width="29%" alt="Projetos no GitHub" /></a>
+ 
+<a href="https://github.com/Marco-Oliver/TRAMA/releases"><img src="./assets/link-releases.png" width="29%" alt="Releases do TRAMA" /></a>
+  <br />
+  <br />  <img src="./assets/faixa-destaques.png" width="100%" alt="Academia do Programador; C# .NET e Angular; WAXLO e projetos reais" /></div>
+Sobre mim
+Sou Marco Oliveira, de Lages/SC. Estou no último mês da Academia do Programador, na formação Full Stack, e curso Sistemas de Informação na UNIPLAC. Também sou formado como Técnico em Informática pelo CEDUP.
+
+Na WAXLO, desenvolvo sites e soluções digitais para clientes. Atualmente, trabalho no WAXLO Commerce, um sistema de e-commerce contratado por uma loja de Lages, com integração à Nuvemshop. O projeto está em desenvolvimento e também faz parte do meu TCC.
+
+Meu foco é construir software de ponta a ponta, com especial interesse em C# / .NET, Angular, APIs e cloud, utilizando também ferramentas de IA e desenvolvimento agêntico no fluxo de trabalho.
+
+Tecnologias e ferramentas
+<div align="center">  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,postgres,azure,docker,git,github,vscode&theme=dark&perline=10" alt="Ícones de C#, .NET, Angular, TypeScript, PostgreSQL, Azure, Docker, Git, GitHub e Visual Studio Code" />  <br />
+  <br />  <sub><b>Back-end</b> · C# / ASP.NET Core / APIs REST   |   <b>Cloud</b> · Azure / GitHub Actions / Vercel</sub>
+
+
+<sub><b>Front-end</b> · Angular / Tailwind   |   <b>IA</b> · Claude Code / OpenSpec / fluxo agêntico</sub>
 </div>
-👋 Um pouco sobre mim
-Sou Marco Oliveira, de Lages, Santa Catarina. Estou concluindo a formação Full Stack pela Academia do Programador e curso Sistemas de Informação na UNIPLAC. Também sou técnico em Informática pelo CEDUP.
-
-Na WAXLO, desenvolvo sites e soluções digitais para clientes. Atualmente trabalho no WAXLO Commerce, uma solução de e-commerce para uma loja de Lages, com integração à Nuvemshop. O projeto está em desenvolvimento e também faz parte do meu TCC.
-
-Meu foco é evoluir como desenvolvedor Full Stack, com atenção especial ao ecossistema C# / .NET, aplicações web e entregas de software.
-<table>
+Projetos selecionados
+<p>Uma seleção de projetos acadêmicos, aplicações próprias e trabalhos desenvolvidos para clientes.</p><table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Formação</h3>
-      <p>🟢 <strong>Academia do Programador</strong><br/>Full Stack · Conclusão prevista: dez/2026</p>
-      <p>🔵 <strong>UNIPLAC</strong><br/>Sistemas de Informação · Cursando</p>
-      <p>⚪ <strong>CEDUP</strong><br/>Técnico em Informática · Concluído</p>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Marco-Oliver/notekeeper-2026"><img src="./assets/projeto-notekeeper.png" alt="NoteKeeper: aplicação Full Stack com .NET, Angular e Azure" width="100%" /></a>
+      <p><strong>NoteKeeper</strong><br /><sub>Projeto acadêmico com API ASP.NET Core, Angular, autenticação e publicação na Azure.</sub></p>
+      <a href="https://github.com/Marco-Oliver/notekeeper-2026"><strong>Repositório e documentação</strong></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Hoje estou focado em</h3>
-      <p>→ Desenvolvimento com <strong>.NET e Angular</strong></p>
-      <p>→ Integrações de APIs e aplicações reais</p>
-      <p>→ <strong>Azure</strong>, CI/CD e deploy</p>
-      <p>→ Fluxos de desenvolvimento assistidos por <strong>IA e agentes</strong></p>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Marco-Oliver/TRAMA"><img src="./assets/projeto-trama.png" alt="TRAMA: organização de estudos, automação e integração com Obsidian" width="100%" /></a>
+      <p><strong>TRAMA</strong><br /><sub>Aplicação Windows para conectar aulas, transcrições, código e conhecimento no Obsidian.</sub></p>
+      <a href="https://github.com/Marco-Oliver/TRAMA"><strong>Repositório e releases</strong></a>
     </td>
   </tr>
-</table>🚀 Projetos que contam minha história
-<!-- Clique nos cards para conhecer cada repositório. -->
-<table>
   <tr>
-    <td width="50%" align="center" valign="top"><a href="https://github.com/Marco-Oliver/notekeeper-2026"><img src="./assets/project-1.png" alt="NoteKeeper — aplicação Full Stack em .NET, Angular e Azure" width="100%" /></a></td>
-    <td width="50%" align="center" valign="top"><a href="https://github.com/Marco-Oliver/TRAMA"><img src="./assets/project-2.png" alt="TRAMA — automação de estudos e integração ao Obsidian" width="100%" /></a></td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/projeto-waxlo.png" alt="WAXLO Commerce: sistema de e-commerce contratado, em desenvolvimento como TCC" width="100%" />
+      <p><strong>WAXLO Commerce</strong><br /><sub>Solução de e-commerce para loja de Lages/SC, integrada à Nuvemshop. TCC em desenvolvimento; código privado.</sub></p>
+      <a href="https://mud-store.vercel.app"><strong>Ver interface pública da loja</strong></a><br />
+      <sub>A demonstração é da loja, não do sistema privado de gestão.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Marco-Oliver/site-dr-agenor"><img src="./assets/projeto-agenor.png" alt="Dr. Agenor: site institucional desenvolvido para cliente" width="100%" /></a>
+      <p><strong>Site Dr. Agenor</strong><br /><sub>Site institucional para cliente, com conteúdo multimídia e publicação na Vercel.</sub></p>
+      <a href="https://site-dr-agenor.vercel.app"><strong>Visualizar site</strong></a> · <a href="https://github.com/Marco-Oliver/site-dr-agenor">Código</a>
+    </td>
   </tr>
-  <tr>
-    <td width="50%" align="center" valign="top"><a href="https://github.com/Marco-Oliver/mud-store"><img src="./assets/project-3.png" alt="MÜD Store — projeto de loja virtual" width="100%" /></a></td>
-    <td width="50%" align="center" valign="top"><a href="https://github.com/Marco-Oliver/site-japa-conveniencia"><img src="./assets/project-4.png" alt="Japa Conveniência — site para negócio local" width="100%" /></a></td>
-  </tr>
-</table><details>
-  <summary><strong>🔎 Ver mais sobre os projetos</strong> · clique para expandir</summary>
-Projeto	O que você encontra
-NoteKeeper	Aplicação acadêmica Full Stack com ASP.NET Core, Angular, SQL Server, autenticação JWT e deploy na Azure.
-TRAMA	Aplicação Windows de apoio a estudos, com organização de conteúdos, integração ao Obsidian e automações.
-MÜD Store	Projeto público da interface web de uma loja virtual.
-Japa Conveniência	Site para negócio local, com informações das unidades, mapas e presença digital.
-
-
-O WAXLO Commerce é um sistema contratado ainda em desenvolvimento. Seu código de produção não está apresentado aqui como repositório público.
-
-</details>🧩 Tecnologias & práticas
-<table>
-  <tr>
-    <td width="25%"><strong>Back-end</strong></td>
-    <td>C# · .NET · ASP.NET Core · Entity Framework Core · APIs REST</td>
-  </tr>
-  <tr>
-    <td><strong>Front-end</strong></td>
-    <td>Angular · HTML · CSS · Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Dados & integração</strong></td>
-    <td>SQL Server · PostgreSQL · RabbitMQ · APIs externas</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud & fluxo</strong></td>
-    <td>Azure · Git · GitHub · GitHub Actions · Docker · Vercel</td>
-  </tr>
-  <tr>
-    <td><strong>IA & agentes</strong></td>
-    <td>Claude Code · OpenSpec · desenvolvimento assistido por IA · organização de requisitos</td>
-  </tr>
-</table><details>
-  <summary><strong>🛠️ Como gosto de desenvolver</strong> · clique para expandir</summary>
-- Entender antes de implementar: organizar requisitos, documentar decisões e separar problemas em etapas.
-- Construir e validar: usar Git, testes, análise de erros e entregas incrementais.
-- Aprender com projetos reais: conectar conteúdo estudado a aplicações e integrações concretas.
-- Usar IA com responsabilidade: acelerar análise, documentação e implementação, revisando e testando os resultados.
-</details><div align="center">
-  <sub>Desenvolvimento de software é aprendizado contínuo — e eu gosto de transformar aprendizado em produto.</sub>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/marco-antonio-de-oliveira-rodrigues-072136376/">LinkedIn</a> ·
-  <a href="https://github.com/Marco-Oliver?tab=repositories">Repositórios</a> ·
-  <a href="https://github.com/Marco-Oliver/TRAMA">TRAMA</a>
+</table>
+<details>
+  <summary><strong>Mais sobre minha formação e como desenvolvo</strong> &nbsp; <sub>(clique para abrir)</sub></summary>
+  <p><strong>Formação</strong></p>
+  <ul>
+    <li><strong>Academia do Programador:</strong> formação Full Stack, conclusão prevista em dezembro de 2026.</li>
+    <li><strong>UNIPLAC:</strong> graduação em Sistemas de Informação, em andamento.</li>
+    <li><strong>CEDUP:</strong> Técnico em Informática integrado ao Ensino Médio, concluído.</li>
+  </ul>  <p><strong>Práticas e ferramentas</strong></p>
+  <ul>
+    <li>Aplicações web com .NET, Angular, bancos de dados e integrações de APIs.</li>
+    <li>Controle de versão, testes, CI/CD e deploy de aplicações na Azure.</li>
+    <li>Desenvolvimento assistido por IA, agentes de código, documentação e validação incremental.</li>
+  </ul>
+</details>
+<div align="center">
+  <sub>Da formação à prática: aprendendo, construindo e evoluindo com software real.</sub>
+  <br />
+  <br />
+  <a href="https://www.linkedin.com/in/marco-antonio-de-oliveira-rodrigues-072136376/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Marco-Oliver?tab=repositories">Todos os projetos</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/netos-do-velho-barrero">Projetos da Academia</a>
 </div>
